@@ -1,0 +1,15 @@
+{
+    "name": "min1",
+    "version": "1.0.0",
+    "description": "ES6 Modules Setting in TsConfig.Json",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "snerks",
+    "license": "MIT",
+    "dependencies": {
+        "react": "^0.14.0",
+        "react-dom": "^0.14.0"
+    }
+}
