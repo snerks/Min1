@@ -4,6 +4,8 @@ Minimal reproduction of TypeScript issue in VS2015 Update 1
 ##Issue##
 Use of the `"compilerOptions": {"module": "es6"}` setting in TsConfig.json in a VS2015 "Web Site" appears to break the editor for ReactJs TSX files. 
 
+Use of the `"compilerOptions": {"module": "es2015"}` also causes the issue. 
+
 ##Environment##
 1. Visual Studio 2015 (Community) - Update 1
 1. Typescript 1.7 Extension
